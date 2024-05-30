@@ -3,7 +3,7 @@ Powershell 5 Script to process building Things in map files (.MAD) from the Bull
 
 Run with SWMapReader.ps1 {filename}
   
-  e.g. SWLevelMap.ps1 MAP065.MAD
+  e.g. SWMapReader.ps1 MAP065.MAD
 
 Features:
 * Lists all building objects in a map and their details, especially ThingOffset, needed to give NPCs and objectives building related commands in levels
